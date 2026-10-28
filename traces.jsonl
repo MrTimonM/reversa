@@ -1,0 +1,1 @@
+{"type":"event","event":{"event":{"kind":"rpc","id":"8b46459b-1","timestamp":1793109917266,"method":"eth_accounts","params":[],"chainId":0,"result":[],"duration":55},"enrichmentStatus":"none"}}
